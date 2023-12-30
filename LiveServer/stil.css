@@ -1,0 +1,328 @@
+                .mainDiv {
+                    display: flex;
+                    flex-direction: column;
+                    width: 100%;
+                }
+                
+                .divAdd {
+                    display: flex;
+                    flex-direction: row;
+                    flex-wrap: wrap;
+                    background-color: rgb(174, 213, 255);
+                    /*width: 1270px;*/
+                    height: 1000px;
+                    background-image: url(https://platformsafrica.com/wp-content/uploads/2021/05/landing-plane-GettyImages-sb10062851ai-001-xlarge.jpg);
+                }
+                
+                .divHotel1 {
+                    margin: 80px;
+                }
+                
+                .divSoba {
+                    margin: 80px;
+                }
+                
+                .divGost {
+                    margin: 80px;
+                }
+                
+                .divDisplay {
+                    display: flex;
+                    flex-direction: row;
+                    flex-shrink: 1;
+                    /* background-image: url(https://media.istockphoto.com/vectors/airline-routes-with-planes-on-white-vector-id538992590?b=1&k=20&m=538992590&s=612x612&w=0&h=5G8Sn9kkU1YeFcS76Oqpv2pKcVO-wb0Nkn55881TW_4=);
+            */
+                }
+                
+                .podaciOTerminovimaOdredjenogSobaa {
+                    border-color: rgb(0, 0, 0);
+                    opacity: 0.9;
+                    border-style: solid;
+                    margin: 6px;
+                    border-bottom: solid;
+                    border-radius: 8px;
+                    border-width: 1px;
+                    background-color: transparent;
+                }
+                
+                .divAvio {
+                    display: flex;
+                    flex-direction: row;
+                    flex-wrap: wrap;
+                    /*  background-color: greenyellow;*/
+                    background-image: url(https://media.istockphoto.com/vectors/airline-routes-with-planes-on-white-vector-id538992590?b=1&k=20&m=538992590&s=612x612&w=0&h=5G8Sn9kkU1YeFcS76Oqpv2pKcVO-wb0Nkn55881TW_4=);
+                    width: 100%;
+                }
+                
+                .divHotel {
+                    display: flex;
+                    flex-direction: column;
+                    background-color: rgb(161, 200, 230);
+                    border-style: solid;
+                    border-color: rgb(161, 200, 230);
+                    width: 82%;
+                    background-image: url(https://media.istockphoto.com/vectors/airline-routes-with-planes-on-white-vector-id538992590?b=1&k=20&m=538992590&s=612x612&w=0&h=5G8Sn9kkU1YeFcS76Oqpv2pKcVO-wb0Nkn55881TW_4=);
+                }
+                
+                .divDisplayTermina {
+                    display: flex;
+                    flex-direction: column;
+                    margin: 20px;
+                    background-color: rgb(136, 169, 232);
+                }
+                
+                .divTermin {
+                    display: flex;
+                    flex-direction: column;
+                    min-width: 100px;
+                    min-height: 950px;
+                }
+                
+                .divUnosPodataka {
+                    display: flex;
+                    flex-direction: column;
+                    /* min-width: 150px;*/
+                    width: 18%;
+                    margin: 5px;
+                }
+                
+                .divPrikazSobaaZaRezervisanje {
+                    border-radius: 8px;
+                    background-color: hsl(199, 100%, 96%);
+                    border-color: rgb(0, 0, 0);
+                    margin: 20px;
+                    border-style: solid;
+                    border-width: 1px;
+                }
+                
+                .divPrikazSobaa {
+                    display: flex;
+                    flex-direction: column;
+                    border-radius: 6px;
+                    background-color: hsl(199, 100%, 96%);
+                    flex: 1 0 auto;
+                    max-width: 150px;
+                    border-color: rgb(0, 0, 0);
+                    margin: 10px;
+                    border-style: solid;
+                    border-width: 1px;
+                }
+                
+                .labNaziv {
+                    flex: 1 0 auto;
+                    display: flex;
+                    max-width: 130px;
+                    font-size: 20px;
+                    ;
+                }
+                
+                .inputNaziv {
+                    flex: 1 0 auto;
+                    display: flex;
+                    max-width: 130px;
+                    font-size: 10px;
+                }
+                
+                .inputAirport {
+                    flex: 1 0 auto;
+                    display: flex;
+                    max-width: 130px;
+                    font-size: 10px;
+                }
+                
+                .inputVreme {
+                    flex: 1 0 auto;
+                    display: flex;
+                    max-width: 130px;
+                    font-size: 10px;
+                }
+                
+                .inputZemlja {
+                    flex: 1 0 auto;
+                    display: flex;
+                    max-width: 130px;
+                    font-size: 10px;
+                }
+                
+                .inputDuzina {
+                    /*odredjuje duzinu polja u prikazu podataka o letu*/
+                    flex: 1 0 auto;
+                    display: flex;
+                    max-width: 130px;
+                    font-size: 10px;
+                    ;
+                }
+                
+                .labGost {
+                    margin-top: 1px;
+                }
+                
+                .lablokacija {
+                    display: block;
+                    font-size: 20px;
+                }
+                
+                .lokacija {
+                    margin-bottom: 0px;
+                }
+                
+                @media only screen and (max-width: 900px) {
+                    .divAdd {
+                        flex-direction: row;
+                    }
+                }
+                
+                .dodajSoba {
+                    background-color: silver;
+                    border: none;
+                    color: white;
+                    text-align: center;
+                    text-decoration: none;
+                    display: inline-block;
+                    font-size: 16px;
+                    border-radius: 8px;
+                }
+                
+                .dodajSoba:hover {
+                    background-color: lightblue
+                }
+                
+                .dodajSoba:active {
+                    background-color: lightblue;
+                    box-shadow: 0 5px #666;
+                    transform: translateY(4px);
+                }
+                
+                .dugmeUcitajSobae {
+                    background-color: silver;
+                    border: none;
+                    color: white;
+                    text-align: center;
+                    text-decoration: none;
+                    display: inline-block;
+                    font-size: 16px;
+                    border-radius: 8px;
+                }
+                
+                .dugmeUcitajSobae:hover {
+                    background-color: lightblue
+                }
+                
+                .dugmeUcitajSobae:active {
+                    background-color: lightblue;
+                    box-shadow: 0 5px #666;
+                    transform: translateY(4px);
+                }
+                
+                .dugmeUcitajSobae {
+                    background-color: silver;
+                    border: none;
+                    color: white;
+                    text-align: center;
+                    text-decoration: none;
+                    display: inline-block;
+                    font-size: 16px;
+                    border-radius: 8px;
+                }
+                
+                .dugmeUcitajSobae:hover {
+                    background-color: lightblue
+                }
+                
+                .dugmeUcitajSobae:active {
+                    background-color: lightblue;
+                    box-shadow: 0 5px #666;
+                    transform: translateY(4px);
+                }
+                
+                .DodavanjeHotela {
+                    background-color: silver;
+                    border: none;
+                    color: white;
+                    text-align: center;
+                    text-decoration: none;
+                    display: inline-block;
+                    font-size: 16px;
+                    border-radius: 8px;
+                }
+                
+                .all-inclusive {
+                    background-color: rgb(255, 235, 81);
+                }
+                
+                .polupansion {
+                    background-color: lightblue;
+                }
+                
+                .DodavanjeHotela:hover {
+                    background-color: lightblue
+                }
+                
+                .DodavanjeHotela:active {
+                    background-color: lightblue;
+                    box-shadow: 0 5px #666;
+                    transform: translateY(4px);
+                }
+                
+                .DodavanjeGost {
+                    background-color: silver;
+                    border: none;
+                    color: white;
+                    text-align: center;
+                    text-decoration: none;
+                    display: inline-block;
+                    font-size: 16px;
+                    border-radius: 8px;
+                }
+                
+                .DodavanjeGost:hover {
+                    background-color: lightblue
+                }
+                
+                .DodavanjeGost:active {
+                    background-color: silver;
+                    box-shadow: 0 5px #666;
+                    transform: translateY(4px);
+                }
+                
+                .dodajterminletazasoba {
+                    background-color: silver;
+                    border: none;
+                    color: white;
+                    text-align: center;
+                    text-decoration: none;
+                    display: inline-block;
+                    font-size: 16px;
+                    border-radius: 8px;
+                }
+                
+                .dodajterminletazasoba:hover {
+                    background-color: lightblue
+                }
+                
+                .dodajterminletazasoba:active {
+                    background-color: silver;
+                    box-shadow: 0 5px #666;
+                    transform: translateY(4px);
+                }
+                
+                .dugmeObrisi {
+                    background-color: silver;
+                    border: none;
+                    color: white;
+                    text-align: center;
+                    text-decoration: none;
+                    display: inline-block;
+                    font-size: 16px;
+                    border-radius: 8px;
+                }
+                
+                .dugmeObrisi:hover {
+                    background-color: lightblue
+                }
+                
+                .dugmeObrisi:active {
+                    background-color: silver;
+                    box-shadow: 0 5px #666;
+                    transform: translateY(4px);
+                }
