@@ -1,4 +1,4 @@
-
+Aplikacija za praćenje posetilaca hotela. 
 ![image](https://github.com/tasicaca/DiplomskiInformacioneTehnologije/assets/96747833/23507e46-dc08-4998-8f9b-deeee0ffda49)
 ![image](https://github.com/tasicaca/DiplomskiInformacioneTehnologije/assets/96747833/3185b487-22f6-4c63-b583-18840e88ab14)
 ![slika 7](https://github.com/tasicaca/Hotel-management-application/assets/96747833/ac70ee8d-5abb-43e2-9836-624b61fc8dca)
