@@ -1,4 +1,4 @@
-Aplikacija za praćenje posetilaca hotela. 
+Aplikacija za praćenje posetilaca hotela. (2023.)
 
 U okviru ovog rada biće kreirana web aplikacija koja će za klijentsku koristiti Java Script,
 dok će za serversku stranu biti korišćen .Net Framework. Kod će biti pisan na C# jeziku, a za 
