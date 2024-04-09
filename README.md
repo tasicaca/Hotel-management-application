@@ -17,6 +17,8 @@ smeštanja gosta u sobu moguće je izmeniti podatke o gostu na prikazu na desnom
 ekrana. Kada dođe do izmene i dodavanja novog gosta u određenu sobu, prikaz će se
 ažurirati, ali bez ponovnog učitavanja cele web stranice, već samo uz izmenu prikaza za tu
 odeđenu sobu. 
+![Screenshot 2024-04-09 162804](https://github.com/tasicaca/Hotel-management-application/assets/96747833/4fdf16a2-ae5f-43a4-a9e3-eb459f58b3ab)
+
 
 ![image](https://github.com/tasicaca/DiplomskiInformacioneTehnologije/assets/96747833/23507e46-dc08-4998-8f9b-deeee0ffda49)
 ![image](https://github.com/tasicaca/DiplomskiInformacioneTehnologije/assets/96747833/3185b487-22f6-4c63-b583-18840e88ab14)
