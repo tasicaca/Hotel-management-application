@@ -18,6 +18,8 @@ ekrana. Kada dođe do izmene i dodavanja novog gosta u određenu sobu, prikaz ć
 ažurirati, ali bez ponovnog učitavanja cele web stranice, već samo uz izmenu prikaza za tu
 odeđenu sobu. 
 ![image](https://github.com/tasicaca/Hotel-management-application/assets/96747833/3ece0c9c-34e5-4da2-ac7a-70e85bec67fe)
+![image](https://github.com/tasicaca/Hotel-management-application/assets/96747833/89ead3fb-9d61-4423-a63e-3aadb47b1f11)
+
 ![Screenshot 2024-04-09 162804](https://github.com/tasicaca/Hotel-management-application/assets/96747833/4fdf16a2-ae5f-43a4-a9e3-eb459f58b3ab)
 ![image](https://github.com/tasicaca/Hotel-management-application/assets/96747833/17197c59-0242-4fac-89e0-969910fbc61c)
 ![image](https://github.com/tasicaca/Hotel-management-application/assets/96747833/edddcc00-c645-4b20-b519-dd877f37b7cd)
